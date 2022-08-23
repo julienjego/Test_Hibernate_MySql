@@ -12,7 +12,7 @@ public class Application {
         //Utils.createAppart(4, 750, 75, "00001");
         //System.out.println("------------");
         Utils.listAppart();
-        Utils.deleteAppartById(12);
+        Utils.deleteAppartById(11);
         System.out.println("------------");
         Utils.listAppart();
 
